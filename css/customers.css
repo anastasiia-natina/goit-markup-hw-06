@@ -53,6 +53,7 @@
 @media screen and (min-width: 768px) and (max-width: 1157px) {
   .customer .container {
     padding: 108px 0;
+    width: 584px;
   }
   .customer-logo {
     width: calc((100% - 2 * 24px) / 3);

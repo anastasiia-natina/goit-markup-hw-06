@@ -59,6 +59,7 @@
   .benefit-headline {
     font-size: 20px;
     font-weight: 500;
+    text-align: unset;
   }
   .benefit-list {
     display: flex;

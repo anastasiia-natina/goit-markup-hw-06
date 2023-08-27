@@ -9,6 +9,9 @@
   .subscribe-form {
     flex-direction: column;
   }
+  .logo-footer {
+    text-align: center;
+  }
 }
 .footer {
   background-color: var(--color-text);
@@ -176,7 +179,7 @@
     justify-content: flex-start;
     align-items: baseline;
   }
-  .footer-page-logo {
-    margin-right: 120px;
+  .subscribe-input-footer {
+    width: 264px;
   }
 }
